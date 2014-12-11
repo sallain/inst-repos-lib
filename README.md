@@ -1,10 +1,8 @@
-#Introduction to Islandora for the CLGA
+#Supporting Institutional Repositories at the University of Toronto Libraries
 
-Presentation content by Sara Allain, 2014, [CC BY 2.0](http://creativecommons.org/licenses/by/2.0/ca/)
+Presentation content by Sara Allain, 2014, [CC BY 2.0](http://creativecommons.org/licenses/by/2.0/ca/). This presentation was developed for a candidate presentation at the University of Toronto.
 
-###Hat-tips
-
-I am indebted to many others who have presented introductions to Islandora - namely, [Kirsta Stapelfeldt](https://github.com/kstapelfeldt) and [Nick Ruest](https://github.com/ruebot).
+Thank you to those who provided advice, feedback, and support as I developed this presentation!
 
 # reveal.js [![Build Status](https://travis-ci.org/hakimel/reveal.js.png?branch=master)](https://travis-ci.org/hakimel/reveal.js)
 
