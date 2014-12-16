@@ -84,7 +84,7 @@ p.center{
  *********************************************/
 .reveal section img {
   background: rgba(255, 255, 255, 0.12);
-  height: 500px;}
+  height: 600px;}
 
 .reveal a:hover img {
   background: rgba(255, 255, 255, 0.2);
